@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Smoke Effect Photo Maker</string>
+
+    <string name="google_add">Google Add</string>
+    <string name="smoke_tv">Smoke</string>
+    <string name="text_tv">Text</string>
+    <string name="share_tv">Share</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-0664570763252260/3326522424</string>
+    <string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>
+
+    <string name="privacy_policy_heading_tv">Privacy Policy</string>
+
+    <string name="privacy_policy_tv">
+        Dreamy InfoTech Apps collects There are many things an application can do to, and for, your phone. But anything an app can do is told to you when you download and install it. Before you download and install an app, you will be shown a list of permissions the application is requesting. In the Permissions section you can read a list of some of the most commonly used permissions. The list explains how important they are,what they do. This should help you get a basic understanding of what to allow  an application.
+
+\n\n1) Internet and view network connection permission:
+This permission is allow to connect to the INTERNET. This permission is used in application setting and notification tool bar in order to view network connections.
+
+\n\n2) Read device identify:
+Allows the application to access the phone features of the device. With this permission the application can find accounts on the device, see and modify owner’s contact card and add or remove contacts from the device. An application with this permission can determine the phone number and serial number of this device.
+
+\n\n3) Read and write external storage:
+This permission allows the application to take pictures and videos with on/off flash of your device camera. Modify or delete the content of SD card. This permission deal with reading external storage on newer devices. This permission is allow you to view application data stored on their SD card.
+
+\n\n•	Cross Application Promotion on your device:
+ You may choose of getting your mobile advertising identifiers used sure styles of interest-based (also referred to as cross-application) mobile behavioral advertising, by accessing the settings on your Apple or humanoid mobile device, as follows: By gap the Google Settings app on your device,choosing Ads, then choosing the choice to opt-out of interest-based ads. (Different device configurations, or updates to devices, could have an effect on or amendment howeverthese settings work.)
+
+\n\n•	How we keep your information secure and confidential:
+The security and confidentiality of your Information is very important to us, so we take security measures to help safeguard your information from unauthorized access and disclosure efforts, no security measures are perfect. We have taken commercially appropriate technical and organizational security measures to protect Your Information from misuse,  unlawful access , loss, alteration, damage or destruction.
+
+\n\n•	How we share your information:
+We may share your information with our authorized service provider that perform certain services on our behalf. These service providers may have limited access to your information, which is needed to perform their functions, but are not permitted to share or use such information for any other purpose. We may also allow third parties like marketing partner or service provider to access your information.
+
+\n\n•	Changes to Privacy Policy:
+When develops new product and services, deploys new technologies and develops new uses of information, we review and update our privacy policy to reflect these changes. In addition, from time to time we make organization, stylistic and grammatical changes to present our practices in a way that makes our policy easy to read.
+
+\n\n•   Children privacy :
+This policy do not address anyone under the age of 13.  We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a children under 13 has provided us with personal information we immediately delete this from our servers.
+
+\n\n•   Contact us:
+If you have any question or suggestions or request please contact us on email us at dhaval@vakratundasystem.in
+
+    </string>
+
+    <!--App Hub screen-->
+    <string name="more_app_tv">More Apps</string>
+    <string name="pixel_app_tv">Pixel Effect</string>
+    <string name="bff_app_tv">BFF Friendship Test</string>
+    <string name="tatto_app_tv">Tattoo Pic Editor For Boys</string>
+
+    <string name="jockes_read_enjoy"><![CDATA[Jockes - Read & Enjoy]]></string>
+    <string name="cooking_tips_sweet_spicy"><![CDATA[Cooking Tips-Sweet & Spicy]]></string>
+    <string name="vastu_shastra_tips_for_home">Vastu Shastra Tips For Home</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="blend_me_pic_editor">Blend Me Pic Editor</string>
+
+    <string name="top_apps_tv">Top Apps (Ads)</string>
+    <string name="more_apps_tv">More Apps (Ads)</string>
+
+</resources>

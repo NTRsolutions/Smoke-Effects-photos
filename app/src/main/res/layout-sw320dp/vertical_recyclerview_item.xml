@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/recycler_item_layout"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/vertical_recycler_bg"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/vertical_apps_imgs_iv"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/vertical_apps_name_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:lines="1"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/vertical_download_btn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/vertical_download_btn"
+        android:gravity="center" />
+
+</LinearLayout>
+
