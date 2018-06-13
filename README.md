@@ -1,0 +1,1 @@
+# Smoke Effects photos
