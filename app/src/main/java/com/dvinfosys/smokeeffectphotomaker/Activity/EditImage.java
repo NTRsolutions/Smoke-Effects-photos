@@ -1,8 +1,8 @@
 package com.dvinfosys.smokeeffectphotomaker.Activity;
 
      /*
-        Person : Dhaval Thakor
-        Email : dhaval@vakratundasystem.in
+        Person : DV Bhuva
+        Email : dvinfosys0@gmail.com
         File Name : EditImage.java
         Description :
           - initialize()  : Initialization of all elements in this screen
